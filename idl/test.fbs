@@ -1,0 +1,6 @@
+namespace FlatBufferTest;
+
+table TestStruct
+{
+	Name:string;
+}
